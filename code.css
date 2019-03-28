@@ -1,0 +1,43 @@
+*{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+header{
+    background-color:#eee;
+    color:#333;
+    text-align:center;
+    padding:10px;
+}
+
+#img-div{
+    text-align:center;
+}
+#id{
+    width:600px;
+    height:700px;
+}
+#tribute-info{
+    background-color:#EEE;
+    color:#333;
+    padding:20px;
+    margin-top:20px;
+}
+
+
+h3{
+    text-align:center;
+}
+
+.info{
+    width:550px;
+    margin:0 auto;
+}
+
+#last{
+    text-align:center;
+}
+
+#Alast{
+    margin-left:20px;
+    margin-right:20px;
+    text-align:center;
+}
